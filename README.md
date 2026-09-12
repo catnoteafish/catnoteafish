@@ -34,5 +34,5 @@
 <div align="center">
     <!-- <img
         src="https://raw.githubusercontent.com/catnoteafish/catnoteafish/main/assets/github-contribution-grid-snake.svg"> -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=catnoteafish&theme=github-compact" />
+    <img src="https://github-stats-extended.vercel.app/graph?username=catnoteafish&theme=github-compact" />
 </div>
