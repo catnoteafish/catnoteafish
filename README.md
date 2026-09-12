@@ -15,13 +15,6 @@
     <a title="github" target="_blank" href="https://github.com/catnoteafish"><img
             src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dcatnoteafish&labelColor=282c34&color=353940&logo=github&longCache=true"></a>
 </div>
-<div align="center">
-    <img height="170px" src="https://readme-omega.vercel.app/api?username=catnoteafish" />
-    <img height="170px"
-        src="https://readme-omega.vercel.app/api/top-langs/?username=catnoteafish&layout=compact&langs_count=8" />
-    <img src="https://readme-streak-stats-tau.vercel.app/?user=catnoteafish&theme=vue&hide_border=true&short_numbers=true"
-        alt="GitHub Streak" />
-</div>
 <hr>
 
 * 恭喜你发现了一只baka猫猫~
@@ -30,9 +23,11 @@
 * 想要认识更多高技术力的猫猫w
 * 可以扩列咪
 
-<hr>
 <div align="center">
-    <!-- <img
-        src="https://raw.githubusercontent.com/catnoteafish/catnoteafish/main/assets/github-contribution-grid-snake.svg"> -->
-    <img src="https://github-stats-extended.vercel.app/graph?username=catnoteafish&theme=github-compact" />
+    <img height="170px" src="https://readme-omega.vercel.app/api?username=catnoteafish" />
+    <img height="170px"
+        src="https://readme-omega.vercel.app/api/top-langs/?username=catnoteafish&layout=compact&langs_count=8" />
+    <img src="https://readme-streak-stats-tau.vercel.app/?user=catnoteafish&theme=vue&hide_border=true&short_numbers=true"
+        alt="GitHub Streak" />
+</div>
 </div>
